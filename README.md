@@ -1,7 +1,7 @@
 ### Hey 👋
 
-<h3>Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
-<p>Welcome to my page! </br> They call me Shadi, Site Reliability Engineer at <b>BMC Software.</b> <3 <b>⚡</b></p>
+<h3>Hey! <p>Welcome to my page! </br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
+They call me Shadi😄, Site Reliability Engineer at <b>BMC Software.</b><b>⚡</b></p>
 
 <h3>Skills 🚀</h3>
 <p>
