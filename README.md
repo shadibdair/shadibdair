@@ -1,5 +1,5 @@
 <h3>Hey!Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
-### They call me Shadi😄. 
+--> They call me Shadi😄. 
 My role: Site Reliability Engineer at <b>BMC Software.</b><b>⚡</b></p>
 
 <h3>Skills 🚀</h3>
@@ -18,7 +18,7 @@ My role: Site Reliability Engineer at <b>BMC Software.</b><b>⚡</b></p>
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 
 👋🌱🔭💬📫!
-##### Always smile😄.
+## Always smile😄.
 
 <!--
 **shadibdair/shadibdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
