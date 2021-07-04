@@ -2,7 +2,7 @@
 
 - [x] They call me Shadi.😄:call_me_hand:
 - [x] My role: Site Reliability Engineer at <b>BMC Software.</b>⚡:technologist:
-- [x] Be happy 
+- [x] Have excellent technical and communication skills, I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them, I like to discover new technologies and work for projects which have scope for self learning and development. Excellent self learning skills, work well under pressure, Great interpersonal skills, Team player
 
 <h3>Skills 🚀/h3>
 <p>
