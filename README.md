@@ -11,7 +11,7 @@
 - [x] Great interpersonal skills:genie_man:.
 - [x] Team player:bust_in_silhouette:.
 
-<h3>Skills 🚀</h3>
+<h2>Skills 🚀</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
