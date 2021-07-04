@@ -1,4 +1,4 @@
-<h3>🦁 Hey, Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
+<h3>🦁 Hey, Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/></h3>
 
 - [x] They call me Shadi.😄!
 - [x] My role: Site Reliability Engineer at <b>BMC Software.</b>:technologist:
