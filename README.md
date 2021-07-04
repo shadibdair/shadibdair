@@ -2,7 +2,7 @@
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 - [x] They call me Shadi.😄!
-- [x] My role: Site Reliability Engineer at <b>BMC Software:round_pushpin:.</b>
+- [x] My role is : Site Reliability Engineer at <b>BMC Software:round_pushpin:.</b>
 - [x] Have excellent technical and communication skills⚡.
 - [x] I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:.
 - [x] I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:.
