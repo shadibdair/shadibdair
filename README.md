@@ -22,13 +22,12 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<h3>For more details:</h3>
+<h2>For more details:</h2>
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 
 👋🌱🔭💬📫:yellow_heart::lion:!
-#### Always smile😄.
-
+> “You only live once, but if you do it right, once is enough.” :anchor:
 <!--
 **shadibdair/shadibdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
