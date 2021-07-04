@@ -1,8 +1,8 @@
 <h3>Hey!Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 
-- [x] They call me Shadi.😄:call_me_hand:
-- [x] My role: Site Reliability Engineer at <b>BMC Software.</b>⚡:technologist:
-- [x] Have excellent technical and communication skills:yellow_heart:, I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:, I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:. Excellent self learning skills:blossom:, work well under pressure:superhero:, Great interpersonal skills:genie_man:, Team player:bust_in_silhouette:.
+- [x] They call me Shadi.😄!
+- [x] My role: Site Reliability Engineer at <b>BMC Software.</b>:technologist:
+- [x] Have excellent technical and communication skills⚡, I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:, I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:. Excellent self learning skills:blossom:, work well under pressure:superhero:, Great interpersonal skills:genie_man:, Team player:bust_in_silhouette:.
 
 <h3>Skills 🚀/h3>
 <p>
@@ -19,7 +19,7 @@
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 
-👋🌱🔭💬📫!
+👋🌱🔭💬📫:yellow_heart::lion:!
 #### Always smile😄.
 
 <!--
