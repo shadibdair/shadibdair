@@ -1,14 +1,16 @@
-<h3>🦁 Hey, Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h3>
+<h3 Hey, Welcome to my page!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/></h3>
 
 - [x] They call me Shadi.😄!
 - [x] My role: Site Reliability Engineer at <b>BMC Software.</b>:technologist:
-- [x] Have excellent technical and communication skills⚡, I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:, I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:.
-- [x] Excellent self learning skills:blossom:.
-- [x] work well under pressure:superhero:.
+- [x] Have excellent technical and communication skills⚡.
+- [x] I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:.
+- [x] I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:.
+- [x] Excellent self learning skills:lion:.
+- [x] Work well under pressure:superhero:.
 - [x] Great interpersonal skills:genie_man:.
-- [x]  Team player:bust_in_silhouette:.
+- [x] Team player:bust_in_silhouette:.
 
-<h3>Skills 🚀/h3>
+<h3>Skills 🚀</h3>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
