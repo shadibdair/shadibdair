@@ -1,4 +1,4 @@
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 - [x] They call me Shadi.😄!
@@ -47,5 +47,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-![devopsphoto](https://user-images.githubusercontent.com/43513994/139340980-3a7d8df4-9399-41fd-b116-5ef3390c2540.jpg)
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 ---
