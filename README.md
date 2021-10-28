@@ -24,8 +24,6 @@
 
 ![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)
 
-![devopsphoto](https://user-images.githubusercontent.com/43513994/139340980-3a7d8df4-9399-41fd-b116-5ef3390c2540.jpg)
-
 
 <h2>For more details:</h2>
 
@@ -47,3 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+![devopsphoto](https://user-images.githubusercontent.com/43513994/139340980-3a7d8df4-9399-41fd-b116-5ef3390c2540.jpg)
+---
