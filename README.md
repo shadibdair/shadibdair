@@ -24,6 +24,9 @@
 
 ![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)
 
+![devopsphoto](https://user-images.githubusercontent.com/43513994/139340980-3a7d8df4-9399-41fd-b116-5ef3390c2540.jpg)
+
+
 <h2>For more details:</h2>
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
