@@ -1,6 +1,15 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
 
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
