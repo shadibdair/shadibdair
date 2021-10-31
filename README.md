@@ -1,4 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 - [x] They call me Shadi.😄!
@@ -24,6 +25,10 @@
 
 ![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)
 
+<p>
+ <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="28" />
+ <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
+</p>
 <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
