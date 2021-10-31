@@ -1,5 +1,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
+
+![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
+
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 - [x] They call me Shadi.😄!
