@@ -8,11 +8,12 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
 
+
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - [x] They call me Shadi.😄!
 - [x] My role is : Site Reliability Engineer at [BMC Software](https://www.bmc.com):round_pushpin:.
