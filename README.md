@@ -6,7 +6,7 @@
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 - [x] They call me Shadi.😄!
-- [x] My role is : Site Reliability Engineer at <b>BMC Software:round_pushpin:.</b>
+- [x] My role is : Site Reliability Engineer at [BMC Software](https://www.bmc.com):round_pushpin:.
 - [x] Have excellent technical and communication skills⚡.
 - [x] I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:.
 - [x] I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:.
@@ -51,7 +51,11 @@
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=shadibdair&show_icons=true&theme=solarized-light)](https://github.com/shadibdair)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadibdair&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-👋🌱🔭💬📫:yellow_heart::lion:!
+<h2>My best friend 💬</h2>
+
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com)
+
+
 > “You only live once, but if you do it right, once is enough.” :anchor:
 <!--
 **shadibdair/shadibdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
