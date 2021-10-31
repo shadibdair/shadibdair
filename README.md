@@ -25,17 +25,11 @@
 ![Build status](https://houssemdellai.visualstudio.com/Java-SpringBoot-WebApp/_apis/build/status/Java-SpringBoot-Maven-CI)
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-
 <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-
 <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 
