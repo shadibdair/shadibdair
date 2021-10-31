@@ -45,6 +45,9 @@
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 
+[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=shadibdair&show_icons=true&theme=solarized-light)](https://github.com/shadibdair)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadibdair&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
 👋🌱🔭💬📫:yellow_heart::lion:!
 > “You only live once, but if you do it right, once is enough.” :anchor:
 <!--
