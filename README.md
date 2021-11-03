@@ -81,7 +81,7 @@
   <div align="center">
     <h4>𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐞𝐫𝐬 ⬇️</h4>
     
-  ![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:shadibdair"></a>
     </div>
 </p>
 
