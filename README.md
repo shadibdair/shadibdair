@@ -14,7 +14,9 @@
 </div>
 
 <!-- Shadi Badir -->
+<div align="center">
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
+  </div>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -29,6 +31,7 @@
 - [x] Team player:bust_in_silhouette:.
 
 <!-- Shadi Badir -->
+<div align="center">
 <h2>Skills 🚀</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -57,7 +60,10 @@
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
 
+</div>
+
 <!-- Shadi Badir -->
+<div align="center">
 <h2>For more details:</h2>
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
@@ -65,6 +71,8 @@
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=shadibdair&show_icons=true&theme=solarized-light)](https://github.com/shadibdair)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadibdair&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
+  </div>
+  
 <!-- Shadi Badir -->
 <div align="center">
 <h3>𝗠𝘆 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱 💬</h3>
