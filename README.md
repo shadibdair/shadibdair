@@ -80,11 +80,10 @@
 <p>
   <div align="center">
     <h4>𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐞𝐫𝐬 ⬇️</h4>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+    
+  ![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
     </div>
 </p>
-
-
 
 
 <!--
@@ -101,6 +100,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- Shadi Badir -->
 <div align="center">
   
