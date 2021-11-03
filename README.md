@@ -30,8 +30,11 @@
 - [x] 𝗚𝗿𝗲𝗮𝘁 𝗶𝗻𝘁𝗲𝗿𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀🧞‍♂️.
 - [x] 𝗧𝗲𝗮𝗺 𝗽𝗹𝗮𝘆𝗲𝗿👤.
 
+---
+
 <!-- Shadi Badir -->
 <div align="center">
+  
 <h2>𝚂𝚔𝚒𝚕𝚕𝚜 🚀</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -62,6 +65,8 @@
 
 </div>
 
+---
+
 <!-- Shadi Badir -->
 <div align="center">
 <h2>𝙵𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 📬</h2>
@@ -72,6 +77,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadibdair&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
+  
+ ---
   
 <!-- Shadi Badir -->
 <div align="center">
