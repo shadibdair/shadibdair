@@ -1,6 +1,11 @@
+<!-- Shadi Badir -->
+<!-- Stop copy my github profile -->
+<!-- Be different babe ;) -->
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
+<!-- Shadi Badir -->
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
@@ -8,9 +13,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/shadibdair/count.svg)
-
-
+<!-- Shadi Badir -->
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -25,6 +28,7 @@
 - [x] Great interpersonal skills:genie_man:.
 - [x] Team player:bust_in_silhouette:.
 
+<!-- Shadi Badir -->
 <h2>Skills 🚀</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -53,7 +57,7 @@
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
 
-
+<!-- Shadi Badir -->
 <h2>For more details:</h2>
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
@@ -61,12 +65,28 @@
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=shadibdair&show_icons=true&theme=solarized-light)](https://github.com/shadibdair)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadibdair&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>My best friend 💬</h2>
+<!-- Shadi Badir -->
+<div align="center">
+<h3>𝗠𝘆 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱 💬</h3>
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com)
 
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
+  </div>
 
-> “You only live once, but if you do it right, once is enough.” :anchor:
+<p>
+  <div align="center">
+    <h4>𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐞𝐫𝐬 ⬇️</h4>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+    </div>
+</p>
+
+
+
+
 <!--
 **shadibdair/shadibdair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -81,8 +101,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
+<!-- Shadi Badir -->
+<div align="center">
+  
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
----
+  </div>
+  
+<div align="center">
+  
+ “𝚈𝚘𝚞 𝚘𝚗𝚕𝚢 𝚕𝚒𝚟𝚎 𝚘𝚗𝚌𝚎, 𝚋𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚍𝚘 𝚒𝚝 𝚛𝚒𝚐𝚑𝚝, 𝚘𝚗𝚌𝚎 𝚒𝚜 𝚎𝚗𝚘𝚞𝚐𝚑.” :anchor:
+  </div>
