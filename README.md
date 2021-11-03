@@ -15,24 +15,24 @@
 
 <!-- Shadi Badir -->
 <div align="center">
-<h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
+<h2>𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍🌍, 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚊𝚐𝚎!🧑‍💻</h2>
   </div>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- [x] They call me Shadi.😄!
-- [x] My role is : Site Reliability Engineer at [BMC Software](https://www.bmc.com):round_pushpin:.
-- [x] Have excellent technical and communication skills⚡.
-- [x] I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all of them:brain:.
-- [x] I like to discover new technologies and work for projects which have scope for self learning and development:dizzy:.
-- [x] Excellent self learning skills:lion:.
-- [x] Work well under pressure:superhero:.
-- [x] Great interpersonal skills:genie_man:.
-- [x] Team player:bust_in_silhouette:.
+- [x] 𝗧𝗵𝗲𝘆 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗦𝗵𝗮𝗱𝗶.😄!
+- [x] 𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝘀 : 𝗦𝗶𝘁𝗲 𝗥𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [BMC Software](https://www.bmc.com):round_pushpin:.
+- [x] 𝗛𝗮𝘃𝗲 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝘁 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝗸𝗶𝗹𝗹𝘀⚡.
+- [x] 𝗜 𝗮𝗺 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝗮𝗻𝗱 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝗶𝗰 𝗯𝘆 𝗻𝗲𝘄 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗮𝗻𝗱 𝘁𝗮𝘀𝗸𝘀 𝗮𝗻𝗱 𝘁𝗮𝗸𝗲 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝘁 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 𝘁𝗼 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 𝗶𝗻 𝗮𝗹𝗹 𝗼𝗳 𝘁𝗵𝗲𝗺🧠.
+- [x] 𝗜 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘄𝗼𝗿𝗸 𝗳𝗼𝗿 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘄𝗵𝗶𝗰𝗵 𝗵𝗮𝘃𝗲 𝘀𝗰𝗼𝗽𝗲 𝗳𝗼𝗿 𝘀𝗲𝗹𝗳 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁💫.
+- [x] 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝘁 𝘀𝗲𝗹𝗳 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗸𝗶𝗹𝗹𝘀🦁.
+- [x] 𝗪𝗼𝗿𝗸 𝘄𝗲𝗹𝗹 𝘂𝗻𝗱𝗲𝗿 𝗽𝗿𝗲𝘀𝘀𝘂𝗿𝗲🦸.
+- [x] 𝗚𝗿𝗲𝗮𝘁 𝗶𝗻𝘁𝗲𝗿𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀🧞‍♂️.
+- [x] 𝗧𝗲𝗮𝗺 𝗽𝗹𝗮𝘆𝗲𝗿👤.
 
 <!-- Shadi Badir -->
 <div align="center">
-<h2>Skills 🚀</h2>
+<h2>𝚂𝚔𝚒𝚕𝚕𝚜 🚀</h2>
 <p>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -64,7 +64,7 @@
 
 <!-- Shadi Badir -->
 <div align="center">
-<h2>For more details:</h2>
+<h2>𝙵𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 📬</h2>
 
 <a href = "https://www.linkedin.com/in/shadi-badir/" target = "_self"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin" border = "0"/> </a>
 
