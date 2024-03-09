@@ -21,7 +21,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - [x] 𝗧𝗵𝗲𝘆 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗦𝗵𝗮𝗱𝗶.😄!
-- [x] **Present** 𝗿𝗼𝗹𝗲 : **DevOps** 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [AccessFintech](https://www.accessfintech.com):round_pushpin:.
+- [x] **Present** 𝗿𝗼𝗹𝗲 : **DevOps** 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [Nexxen](https://nexxen.com/):round_pushpin:.
+- [x] **Former** 𝗿𝗼𝗹𝗲 : **DevOps** 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [AccessFintech](https://www.accessfintech.com):round_pushpin:.
 - [x] **Former** : **CloudOps/SRE** 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [Radware](https://www.radware.com):round_pushpin:.
 - [x] **Former** : 𝗦𝗶𝘁𝗲 𝗥𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 [BMC Software](https://www.bmc.com):round_pushpin:.
 - [x] 𝗛𝗮𝘃𝗲 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝘁 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝗸𝗶𝗹𝗹𝘀⚡.
